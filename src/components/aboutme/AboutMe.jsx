@@ -20,7 +20,7 @@ export const AboutMe = () => {
                         Hello my dear! I am Abdulaziz Ravshanov, I am 18 years old.
                         I am from Uzbekistan, Navoiy and now
                         I live in Tashkent. So I started.
-                        I am currently a work NDT (Next Development Team)
+                        I am currently a work at NDT (Next Development Team)
                         I have been studying Frontend Development at PDP IT Academy since 2021.
                         <Fade bottom cascade><div>Why did I choose Frontend?</div></Fade>
                         Because I love creating websites without frontend, without web apps, and I enjoy my work!
